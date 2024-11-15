@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+  <html lang="fr">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="stylePopup.css">
+      <link rel="stylesheet" href="reset.css" media="screen" />
+      <title>Citéo</title>
+    </head>
+  <body>
+    <div class="contener">
+      <p id="citation"></p>
+      <p id="auteur">" "</p>
+
+      <p class="indications">Pour afficher une nouvelle citation cliquez sur le thème de votre choix ou entrez un mot-clé : </p>
+      <div class="buttons">
+        <div class="input">
+            <!-- <label for="name">Afficher une citation par mot-clé:</label> -->
+            <input type="text" id="champRecherche" name="name" required placeholder="Entrez un mot-clé" />
+            <button type="submit" id="ok" value="champRecherche">OK</button>
+        </div>
+
+        <button id="aleatoire">Thème Aléatoire</button>
+        <button id="sagesse">Thème Sagesse</button>
+        <button id="motivation">Thème Motivation</button>
+      </div>
+  
+
+    </div>
+    
+
+    <script src="popup.js"></script>
+  </body>
+</html>

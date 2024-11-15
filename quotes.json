@@ -1,0 +1,268 @@
+{
+    "quotes": [
+        {
+            "id": 0,
+            "quote": "La vie, ce n’est pas obtenir et posséder mais donner et être.",
+            "author": "Kevin Kruse",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 1,
+            "quote": "Tout ce que l'esprit de l'homme peut imaginer et croire, il peut l'accomplir.",
+            "author": "Napoleon Hill",
+            "catégorie": ["Motivation", "Sagesse"]
+        },
+        {
+            "id": 2,
+            "quote": "Efforcez-vous de ne pas viser le succès, mais plutôt la valeur.",
+            "author": "Albert Einstein",
+            "catégorie": ["Motivation", "Sagesse"]
+        },
+        {
+            "id": 3,
+            "quote": "Une route se séparait en deux dans un bois, et j’ai pris la moins empruntée. Et cela a fait toute la différence.",
+            "author": "Robert Frost",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 4,
+            "quote": "Seul on va plus vite, ensemble on va plus loin.",
+            "author": "Proverbe Africain",
+            "catégorie": ["Motivation","Sagesse"]
+        },
+        {
+            "id": 5,
+            "quote": "Vous ratez 100% des tirs que vous ne tentez pas.",
+            "author": "Wayne Gretzky",
+            "catégorie": ["Motivation"]
+        },
+        {
+            "id": 6,
+            "quote": "J'ai manqué plus de 9000 tirs dans ma carrière. J'ai perdu presque 300 matchs. 26 fois on m'a fait confiance pour prendre le tir gagnant et j'ai échoué. J'ai échoué encore et encore dans ma vie. Et c'est pourquoi je réussis.",
+            "author": "Michael Jordan",
+            "catégorie": ["Motivation"]
+        },
+        {
+            "id": 7,
+            "quote": "La chose la plus difficile est de décider d'agir, le reste n'est que ténacité.",
+            "author": "Amelia Earhart",
+            "catégorie": ["Motivation"]
+        },
+        {
+            "id": 8,
+            "quote": "Chaque échec me rapproche du prochain home run.",
+            "author": "Babe Ruth",
+            "catégorie": ["Motivation"]
+        },
+        {
+            "id": 9,
+            "quote": "La clarté d'objectif est le point de départ de toute réussite.",
+            "author": "W. Clement Stone",
+            "catégorie": ["Motivation"]
+        },
+        {
+            "id": 10,
+            "quote":"La logique vous conduira d’un point A à un point B. L'imagination et l'audace vous conduiront où vous le désirez. ",
+            "author":"Albert Einstein",
+            "catégorie":["Motivation"]
+        },
+        {
+            "id": 11,
+            "quote": "La vie, c'est ce qui arrive quand vous êtes occupé à faire d'autres plans.",
+            "author": "John Lennon",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 12,
+            "quote": "Nous devenons ce que nous pensons.",
+            "author": "Earl Nightingale",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 13,
+            "quote": "Dans vingt ans, vous serez plus déçu par les choses que vous n'avez pas faites que par celles que vous avez faites, alors larguez les amarres, éloignez-vous du port d'attache, attrapez les alizés dans vos voiles. Explorez, rêvez, découvrez.",
+            "author": "Mark Twain",
+            "catégorie": ["Motivation","Sagesse"]
+        },
+        {
+            "id": 14,
+            "quote": "La vie c'est 10% ce qui m'arrive et 90% comment je réagis.",
+            "author": "Charles Swindoll",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 15,
+            "quote": "La façon la plus courante pour les gens de renoncer à leur pouvoir est de penser qu'ils n'en ont pas.",
+            "author": "Alice Walker",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 16,
+            "quote": "L'esprit est tout. Ce que vous pensez, vous le devenez.",
+            "author": "Bouddha",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 17,
+            "quote": "L’homme est la seule créature qui refuse d’être ce qu’elle est",
+            "author": "Albert Camus",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 18,
+            "quote": "Une vie non examinée ne vaut pas la peine d'être vécue.",
+            "author": "Socrate",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 19,
+            "quote": "90% du succès est de se montrer.",
+            "author": "Woody Allen",
+            "catégorie": ["Motivation"]
+        },
+        {
+            "id": 20,
+            "quote": "Votre temps est limité, alors ne le gaspillez pas à vivre la vie de quelqu'un d'autre.",
+            "author": "Steve Jobs",
+            "catégorie": ["Motivation", "Sagesse"]
+        },
+        {
+            "id": 21,
+            "quote": "Gagner n'est pas tout, mais vouloir gagner l'est.",
+            "author": "Vince Lombardi",
+            "catégorie": ["Motivation"]
+        },
+        {
+            "id": 22,
+            "quote": "Je ne suis pas le produit de mes circonstances. Je suis le produit de mes décisions.",
+            "author": "Stephen Covey",
+            "catégorie": ["Motivation"]
+        },
+        {
+            "id": 23,
+            "quote": "Vous ne pouvez jamais traverser l'océan tant que vous n'avez pas le courage de perdre de vue le rivage.",
+            "author": "Christophe Colomb",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 24,
+            "quote": "J'ai appris que les gens oublieront ce que vous avez dit, les gens oublieront ce que vous avez fait, mais les gens n'oublieront jamais comment vous les avez fait se sentir.",
+            "author": "Maya Angelou",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 25,
+            "quote": "Soit vous gérez la journée, soit la journée vous gère.",
+            "author": "Jim Rohn",
+            "catégorie": ["Motivation"]
+        },
+        {
+            "id": 26,
+            "quote": "La jeunesse est le temps d'étudier la sagesse, la vieillesse est le temps de la pratiquer.",
+            "author": "Jean-Jacques Rousseau",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 27,
+            "quote": "Les deux jours les plus importants de votre vie sont le jour où vous êtes né et le jour où vous découvrez pourquoi.",
+            "author": "Mark Twain",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 28,
+            "quote": "Tout ce que vous pouvez faire, ou rêver que vous pouvez faire, commencez-le. L'audace a du génie, du pouvoir et de la magie en elle.",
+            "author": "Johann Wolfgang von Goethe",
+            "catégorie": ["Motivation"]
+        },
+        {
+            "id": 29,
+            "quote": "Le succès est la capacité d'aller d'échec en échec sans perdre son enthousiasme.",
+            "author": "Winston Churchill",
+            "catégorie": ["Motivation"]
+        },
+        {
+            "id": 30,
+            "quote": "Les gens disent souvent que la motivation ne dure pas. Eh bien, ni le bain. C'est pourquoi nous le recommandons quotidiennement.",
+            "author": "Zig Ziglar",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 31,
+            "quote": "La vie se rétrécit ou s'agrandit en proportion du courage de chacun.",
+            "author": "Anaïs Nin",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 32,
+            "quote": "Si vous entendez une voix en vous dire « tu ne peux pas peindre », alors peignez de toute façon et cette voix sera réduite au silence.",
+            "author": "Vincent Van Gogh",
+            "catégorie": ["Motivation", "Sagesse"]
+        },
+        {
+            "id": 33,
+            "quote": "Il n'y a qu'une seule façon d'éviter les critiques : ne rien faire, ne rien dire et être rien.",
+            "author": "Aristote",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 34,
+            "quote": "Demandez et il vous sera donné ; cherchez, et vous trouverez ; frappez, et la porte vous sera ouverte.",
+            "author": "Jésus",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 35,
+            "quote": "La seule personne que vous êtes destiné à devenir est la personne que vous décidez d'être.",
+            "author": "Ralph Waldo Emerson",
+            "catégorie": ["Motivation", "Sagesse"]
+        },
+        {
+            "id": 36,
+            "quote": "Allez avec confiance dans la direction de vos rêves. Vivez la vie que vous avez imaginée.",
+            "author": "Henry David Thoreau",
+            "catégorie": ["Motivation", "Sagesse"]
+        },
+        {
+            "id": 37,
+            "quote": "Quand je me tiendrai devant Dieu à la fin de ma vie, j'espère que je n'aurai plus un seul morceau de talent et que je pourrais dire, j'ai utilisé tout ce que tu m'as donné.",
+            "author": "Erma Bombeck",
+            "catégorie": ["Motivation"]
+        },
+        {
+            "id": 38,
+            "quote": "Peu de choses peuvent aider un individu plus que de lui confier des responsabilités et de lui faire savoir que vous avez confiance en lui.",
+            "author": "Booker T. Washington",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 39,
+            "quote": "Certaines choses attirent votre regard, mais poursuivez uniquement celles qui capturent le cœur.",
+            "author": "Proverbe indien ancien",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 40,
+            "quote": "Croyez que vous pouvez et vous êtes à mi-chemin.",
+            "author": "Theodore Roosevelt",
+            "catégorie": ["Motivation"]
+        },
+        {
+            "id": 41,
+            "quote": "Tout ce que vous avez toujours voulu est de l'autre côté de la peur.",
+            "author": "George Addair",
+            "catégorie": ["Motivation"]
+        },
+        {
+            "id": 42,
+            "quote": "Nous pouvons facilement pardonner à un enfant qui a peur du noir ; la vraie tragédie de la vie, c'est quand les hommes ont peur de la lumière.",
+            "author": "Platon",
+            "catégorie": ["Sagesse"]
+        },
+        {
+            "id": 43,
+            "quote": "Enseigne à ta langue à dire : « Je ne sais pas », et tu progresseras.",
+            "author": "Maïmonide",
+            "catégorie": ["Sagesse"]
+        }
+    ]
+}
