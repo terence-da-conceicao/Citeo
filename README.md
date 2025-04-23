@@ -17,9 +17,7 @@ Cette extension Chrome est l'un des premiers projets pratiques de 3 développeus
 ## Utilisation
 - Entrer un mot-clef pour obtenir une citation sur un thème précis puis cliquez sur Ok.
 - Choisissez un thème entre Sagesse ou Motivation, ou afficher une citation aléatoirement.
-
-## Axes d'amélioration/Obstacles rencontrés
-Nous avons stocké les citations dans un .json parce qu'aucune API ne convenait et que nous n'avions pas encore étudié les databases. Nous aimerions déplacer les citations dans une database afin d'en stocker un bien plus grand nombre. Nous pourrions également améliorer l'UI lorsqu l'utilisateur recherche un mot, ajouter plus de thèmes et enfin un système de favoris/marque-pages.
+- 
 
 ## Crédits
 Térence Da Conceiçao (Partie JavaScript/algo ainsi que la recherche et le tri des citations)  
