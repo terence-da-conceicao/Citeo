@@ -1,20 +1,15 @@
-
-
-// On transforme le chemin relatif de notre fichier json en URL afin de pouvoir effectuer un fetch dessus
-
 let allQuotes;
 let sagesse = [];
 let motivation = [];
 
 
-//fonction de déclenchement du bouton ok (fonctionnalité recherche) 
 document.getElementById("ok").addEventListener('click', function() {
 let mot = champRecherche.value;
   if (mot.length != 0) {
-    cherche(mot)
+    cherche(mot);
   } else {
-    document.getElementById("citation").innerHTML = "Mais tu n'as écrit aucun mot?! Bah écris un mot...."
-    document.getElementById("auteur").innerHTML = "☼ Célia, Tiphaine et Térence ☼"
+    document.getElementById("citation").innerHTML = "Entrez un mot";
+    document.getElementById("auteur").innerHTML = "";
   }
 
 });
